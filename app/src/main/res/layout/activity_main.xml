@@ -30,8 +30,8 @@
         <ImageView
             android:id="@+id/imageView2"
             android:layout_width="match_parent"
-            android:layout_height="55dp"
-            app:srcCompat="@drawable/ic_wave" />
+            android:layout_height="103dp"
+            app:srcCompat="@drawable/ic_wave_portal" />
 
         <TextView
             android:id="@+id/textView2"
